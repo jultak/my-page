@@ -14,12 +14,12 @@
 | 데이터베이스 | Supabase(PostgreSQL), Session Pooler로 연결 | Supabase |
 
 ## 배포 주소
-- GitHub 저장소 (my-page): `여기에 URL`
-- GitHub 저장소 (memo-frontend): `여기에 URL`
-- GitHub 저장소 (memo-backend): `여기에 URL`
-- Vercel 개인 소개 페이지: `여기에 URL`
-- Vercel 메모장 앱: `여기에 URL`
-- Render 백엔드 Swagger UI: `여기에 URL/docs`
+- GitHub 저장소 (my-page): https://github.com/jultak/my-page
+- GitHub 저장소 (memo-frontend): https://github.com/jultak/memo-frontend
+- GitHub 저장소 (memo-backend): https://github.com/jultak/memo-backend
+- Vercel 개인 소개 페이지: https://my-page-iota-lilac.vercel.app/
+- Vercel 메모장 앱: https://memo-frontend-nu.vercel.app/
+- Render 백엔드 Swagger UI: https://memo-backend-1t4v.onrender.com/docs#/
 
 ## 핵심 개념 정리
 - HTML(구조)·CSS(표현)·JS(동작)의 역할 분담
@@ -48,4 +48,6 @@
 - 워크북과 실제 화면이 다르게 보일 때(예: VS Code에 'Initialize Repository' 대신 'Clone Repository'만 보임)는 AI에게 스크린샷을 보여주고 워크북 문구와 실제 UI의 차이를 확인받았습니다.
 
 ## 자유 로그
-- 오늘 배운 것, 아직 헷갈리는 것 등을 자유롭게 적어주세요.
+- 프론트, 백엔드, 데이터베이스를 연계해서 초보 웹개발을 해볼 수 있어서 좋았다.
+- 작업 중간에 로컬서버를 키는 과정이 있는데, 이게 작업할 때마다 켜야 하는지, 언제 켜야 하는지, 계속 켜져 있는 건지 아직 헷갈린다. 
+- 토큰이 만료되면 github 저장소를 쓸 수 없는 건지 궁금하다.
